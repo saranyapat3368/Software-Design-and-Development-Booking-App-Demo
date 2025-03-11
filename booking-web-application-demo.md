@@ -526,11 +526,11 @@ app.listen(port, () => {
 - Headers: Authorization: Bearer {{token}}
 - กำหนด initial value กับ current value
 - กดปุ่ม Save เพื่อบันทึกข้อมูล
-  ![Get all booking](images/postman-getall.png)
+![image](https://github.com/user-attachments/assets/80912a3c-2218-4e56-97e7-0ad8239f8d8d)
 
 ### บันทึกผลลัพธ์การ Get ข้อมูล
 
-![รูปผลลัพธ์การ Get ข้อมูล](images path/image.png)
+![image](https://github.com/user-attachments/assets/2a7cfe41-cc07-4fc0-b50a-2b90ce2452c4)
 
 ### กรณีผลลัพธ์แจ้ง "error":"Token ไม่ถูกต้องหรือหมดอายุ" ให้ทำการ Login ใหม่ แล้วคัดลอก Token ที่ได้เพื่อเปลี่ยนค่าใน variable token
 
